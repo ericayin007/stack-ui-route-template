@@ -1,0 +1,18 @@
+{
+  "name": "tmpl_ui-route",
+  "version": "1.0.0",
+  "description": "Stack Foundation Workshop - Angular ui-router",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower install"
+  },
+  "author": "chanab <chanab@sg.ibm.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "bower": "*"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "tmpl_ui-route",
+  "description": "Stack Foundation Workshop - Angular ui-router",
+  "main": "server/app.js",
+  "authors": [
+    "chanab <chanab@sg.ibm.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "angularjs#^1.6.4",
+    "angular-messages": "^1.6.4",
+    "angular-animate": "^1.6.4",
+    "angular-ui-router": "^1.0.4"
+  }
+}
